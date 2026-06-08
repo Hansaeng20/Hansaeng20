@@ -1,4 +1,4 @@
-# Hi there, I'm Frnaz 👋
+# Hi there, I'm Franz 👋
 
 ### 🎓 Information Technology Student | Aspiring Software Developer | Networking Enthusiast
 
@@ -9,8 +9,8 @@ Passionate about technology, software development, networking, and building solu
 ## 🚀 About Me
 
 * 🎓 Information Technology Student
+* 💼 Part-Time Network Associate at [Cognizant](https://www.cognizant.com/)
 * 💻 Passionate about Software Development, Networking, and Cybersecurity
-* 🌱 Continuously learning and exploring emerging technologies
 * 🤖 Interested in AI Integration and Intelligent Systems
 * 🔧 Enjoy building applications that combine functionality, usability, and innovation
 
