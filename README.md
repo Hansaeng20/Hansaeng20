@@ -10,6 +10,7 @@ Passionate about technology, software development, networking, and building solu
 
 * 🎓 Information Technology Student
 * 💼 Part-Time Network Associate at [Cognizant](https://www.cognizant.com/)
+* 💼 Network Security Specialist at [Cognizant Netcentric](https://www.netcentric.biz/).
 * 💻 Passionate about Software Development, Networking, and Cybersecurity
 * 🤖 Interested in AI Integration and Intelligent Systems
 * 🔧 Enjoy building applications that combine functionality, usability, and innovation
@@ -20,6 +21,7 @@ Passionate about technology, software development, networking, and building solu
 * Mobile Application Development
 * Database Management
 * Networking & Cybersecurity
+* Endpoint Security
 * Artificial Intelligence Integration
 * Cloud Technologies
 
