@@ -1,29 +1,28 @@
 # Hi there, I'm Franz 👋
 
-### 🎓 Information Technology Student | Aspiring Software Developer | Networking Enthusiast
+### 💻 4th Year Information Technology Student | Software Developer | Networking Enthusiast
 
-Passionate about technology, software development, networking, and building solutions that solve real-world problems. I enjoy learning new technologies, creating practical applications, and continuously improving my technical skills.
+I'm a 4th-year Information Technology student passionate about building practical software solutions. My experience includes developing Laravel REST APIs, React applications, Android applications, and networking projects while continuously exploring AI integration, cybersecurity, and cloud technologies.
 
----
+Currently working as a **Part-Time Network Associate at Cognizant**, I enjoy solving real-world problems through software, networking, and automation.
 
 ## 🚀 About Me
 
-* 🎓 Information Technology Student
-* 💼 Part-Time Network Associate at [Cognizant](https://www.cognizant.com/)
-* 💼 Network Security Specialist at [Cognizant Netcentric](https://www.netcentric.biz/).
-* 💻 Passionate about Software Development, Networking, and Cybersecurity
-* 🤖 Interested in AI Integration and Intelligent Systems
-* 🔧 Enjoy building applications that combine functionality, usability, and innovation
+- 🎓 4th Year BS Information Technology Student
+- 💼 Part-Time Network Associate at Cognizant
+- 🌐 Network Security Specialist (Cognizant Netcentric)
+- 💻 Experienced in Laravel, React, Android, SQL, and Networking
+- 🔐 Interested in Backend Development, API Design, Cybersecurity, and AI Integration
+- 🚀 Enjoy building scalable systems that solve real-world business problems
 
-### Currently Exploring
+## 🌱 Currently Working On
 
-* Web Development
-* Mobile Application Development
-* Database Management
-* Networking & Cybersecurity
-* Endpoint Security
-* Artificial Intelligence Integration
-* Cloud Technologies
+- Laravel REST API Development
+- React Web Applications
+- Mobile Application Development (Android)
+- AI-assisted Software Development
+- Networking & Cybersecurity
+- Cloud Technologies
 
 ---
 
@@ -52,21 +51,23 @@ Passionate about technology, software development, networking, and building solu
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🍽️ FlavorBook
+### 🏡 Fiesta Core API
 
-A smart recipe organizer built with **Kotlin** and **SQLite**, designed to help users efficiently manage and discover recipes.
+Laravel REST API for a real estate platform featuring:
 
-### 📝 Byte & Bite
+- Agent & Client Authentication
+- Reservation Management
+- Property Management
+- Referral System
+- OTP & Email Verification
+- Dashboard Analytics
+- Reservation Change Workflow
+- Agent Reassignment Module
 
-An intelligent notepad application that automatically categorizes and organizes user input for improved productivity and information management.
-
-### 🌐 Networking & Web Projects
-
-Developed various networking simulations, database-driven applications, and responsive web solutions as part of academic and personal projects.
-
----
+Tech Stack:
+Laravel • MySQL • REST API • Git
 
 ## 📚 Currently Learning
 
@@ -79,15 +80,13 @@ Developed various networking simulations, database-driven applications, and resp
 
 ---
 
-## 🎯 Goals for 2026
+## 🎯 2026 Goals
 
-* Build more open-source projects
-* Strengthen backend development skills
-* Earn networking and cloud certifications
-* Contribute to collaborative software projects
-* Explore AI and machine learning integration
-
----
+- Publish production-ready full-stack projects
+- Deepen Laravel & React expertise
+- Earn cloud and networking certifications
+- Contribute to open-source projects
+- Build AI-assisted business applications
 
 ## 📫 Connect With Me
 
