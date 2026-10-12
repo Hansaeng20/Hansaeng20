@@ -1,145 +1,169 @@
 # Hi there, I'm Franz 👋
 
-## 💻 4th Year Information Technology Student | Software Developer | Networking Enthusiast
+### 🌐 Aspiring Network Engineer | Backend Developer | Server & Infrastructure Enthusiast
 
-I'm a 4th-year Information Technology student passionate about building practical software solutions that solve real-world problems. I enjoy designing backend systems, developing web and mobile applications, and continuously expanding my knowledge in networking, cybersecurity, cloud technologies, and artificial intelligence.
+I'm a 4th-year **BS Information Technology student at National University Philippines**, expected to graduate in 2027. I'm passionate about networking, backend development, server administration, and cybersecurity.
 
-Currently, I work as a **Part-Time Network Associate at Cognizant**, where I continue to strengthen my technical skills while balancing academic and personal software development projects. I believe the best way to learn is by building, experimenting, and continuously improving.
+I enjoy building backend systems, designing REST APIs, managing relational databases, configuring web servers, and troubleshooting network infrastructure. My goal is to combine **networking expertise with backend and server-side development** to build secure, reliable, and scalable systems.
+
+I'm continuously improving my technical skills through hands-on projects, networking labs, and independent learning.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 4th Year BS Information Technology Student
-- 💼 Part-Time Network Associate at **Cognizant**
-- 🌐 Network Security Specialist at **Cognizant Netcentric**
-- 💻 Passionate about Backend Development, Software Engineering, Networking, and Cybersecurity
-- 🤖 Interested in AI Integration, Intelligent Systems, and Cloud Technologies
-- 🛠️ Enjoy building scalable applications that combine functionality, usability, and maintainability
-- 📚 Always learning new technologies through real-world projects and continuous self-improvement
-
----
-
-## 🌱 Currently Exploring
-
-- Laravel & REST API Development
-- React Web Development
-- Android Mobile Development
-- Database Design & Optimization
-- Networking & Cybersecurity
-- Endpoint Security
-- Cloud Computing
-- Artificial Intelligence Integration
-- Software Architecture & Design Patterns
+- 🌐 Focused on Networking, Routing, Switching, and Network Security
+- 💻 Backend Development using Laravel, PHP, and REST APIs
+- 🖥️ Interested in Linux Server Administration, Nginx, and Production Deployment
+- 🔐 Exploring Cybersecurity, Endpoint Security, and Infrastructure Protection
+- 🗄️ Experienced in Relational Database Design and Authentication Systems
+- 🛠️ Hands-on experience with API Testing, Debugging, and Server Configuration
+- 🎯 Aspiring to build a career in Network Engineering and Server Infrastructure
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 🌐 Networking & Infrastructure
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+**Networking:** IPv4/IPv6 • OSPF • VLANs • SSH • ACLs • Network Troubleshooting • Network Security
+
+**Infrastructure:** Linux • Nginx • Server Administration • Production Deployment
+
 ### 💻 Programming Languages
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### ⚙️ Frameworks & Technologies
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
----
-
-### 🛠️ Tools
+### 🔧 Tools & Development
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🏡 Fiesta Core API
+### 🏡 Affordahomes — Property Management / Real Estate System
 
-A Laravel REST API built for a real estate platform featuring comprehensive backend modules and business workflows.
+**Role:** Backend Developer • Database Implementation • Production Deployment
 
-### Key Features
+A property management and real estate system for which I took primary responsibility for backend development, database implementation, and server deployment.
 
-- 🔐 Agent & Client Authentication
-- 📧 Email Verification & OTP Authentication
-- 🏠 Property Management
-- 📅 Reservation Management
-- 🔄 Reservation Change Request Workflow
-- 👥 Agent Reassignment Request Module
-- 🎯 Referral System
-- 📊 Dashboard Analytics & Leaderboards
-- 🖼️ Property Gallery Management
-- 🗄️ Database Relationships & Migrations
-- 🔒 RESTful API Development
+**Key Contributions**
 
-**Tech Stack:** Laravel • PHP • MySQL • REST API • Git
+- Developed backend functionality and REST APIs using Laravel.
+- Designed relational database structures and application data relationships.
+- Implemented authentication using Laravel Sanctum.
+- Managed production deployment and Nginx configuration.
+- Implemented security headers and server-level security measures.
+- Performed API testing, debugging, and troubleshooting using Postman.
+- Maintained the production environment to support reliable system operation.
 
----
+**Tech Stack:** Laravel • PHP • MySQL • REST APIs • Laravel Sanctum • Nginx • Linux • Postman • Git
 
-## 🍽️ FlavorBook
+### 🌐 Networking & Security Labs
 
-A smart recipe organizer built using **Kotlin** and **SQLite**, allowing users to efficiently manage, organize, and discover recipes through a user-friendly Android application.
+Hands-on networking exercises focused on configuring, securing, and troubleshooting network environments using networking tools and simulated topologies.
 
----
+**Key Areas**
 
-## 📝 Byte & Bite
+- IPv4 and IPv6 addressing and configuration
+- VLAN configuration and inter-VLAN routing
+- OSPF and routing fundamentals
+- SSH configuration and secure remote access
+- Access Control Lists (ACLs)
+- Network connectivity and troubleshooting
+- Network security and access-control concepts
 
-An intelligent note-taking application that automatically categorizes and organizes user notes for improved productivity and information management.
-
----
-
-## 🌐 Networking & Web Projects
-
-Developed networking simulations, responsive web applications, database-driven systems, and API-based projects through both academic coursework and personal development.
+**Technologies:** Cisco Packet Tracer • IPv4/IPv6 • OSPF • VLANs • SSH • ACLs
 
 ---
 
-# 📚 Currently Learning
+## 📜 Certifications & Training
 
-- React & Modern Frontend Development
-- Flutter Mobile Development
-- Cloud Computing & Deployment
-- Advanced Networking Concepts
-- Cybersecurity & Endpoint Security
-- Artificial Intelligence Integration
-- Software Architecture & Design Patterns
-- Clean Code Principles & Best Practices
+- CompTIA IT Fundamentals+ (ITF+)
+- IT Specialist – Networking
+- Cisco Networking Basics
+- Cisco Network Defense
+- Cisco Endpoint Security
+- Cisco Cyber Threat Management
+- Cisco Network Support and Security
+- Introduction to Generative AI
+- Introduction to CIP
 
 ---
 
-# 🎯 Goals for 2026
+## 📚 Currently Learning
 
-- 🚀 Build production-ready full-stack applications
-- 💻 Strengthen Laravel, React, and Backend Development skills
-- ☁️ Earn Cloud and Networking Certifications
-- 🤝 Contribute to Open Source Projects
-- 🤖 Build AI-powered software solutions
-- 📖 Continue learning modern software engineering practices
+- Advanced Networking and Routing
+- Network Troubleshooting and Infrastructure Management
+- Linux Server Administration
+- Nginx Configuration and Web Hosting
+- Backend API Security and Optimization
+- Server Deployment and Maintenance
+- Cybersecurity and Endpoint Protection
+- Cloud Infrastructure and Virtualization
+- Software Architecture and Clean Code
+
+---
+
+## 🎯 Goals for 2026
+
+- 🌐 Strengthen my networking and infrastructure troubleshooting skills.
+- 🖥️ Gain deeper practical experience in Linux server administration.
+- 🔒 Improve my knowledge of network security and access control.
+- 💻 Build secure and maintainable backend systems.
+- 🚀 Deploy and maintain web applications in production environments.
+- ☁️ Pursue relevant networking and cloud certifications.
+- 🤝 Collaborate on projects involving networking, infrastructure, and software development.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hansaeng20&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansaeng20&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/franz-romeo-isaac-llanes-a5286b333
-- 🌐 GitHub: https://github.com/Hansaeng20
-- 📧 Email: franzromeoisaacllanes@gmail.com
+<p align="left">
+  <a href="https://github.com/Hansaeng20">
+    <img src="https://img.shields.io/badge/GitHub-Hansaeng20-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/franz-romeo-isaac-llanes-a5286b333">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  <a href="mailto:franzromeoisaacllanes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+</p>
 
 ---
 
-> **"Great software isn't built overnight—it's built through continuous learning, persistence, and solving one problem at a time."** 🚀
+> *"Understand the network, build the backend, secure the infrastructure."* 🚀
