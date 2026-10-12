@@ -141,15 +141,6 @@ Hands-on networking exercises focused on configuring, securing, and troubleshoot
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hansaeng20&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansaeng20&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
